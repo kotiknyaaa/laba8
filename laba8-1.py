@@ -1,7 +1,7 @@
 def PowerA3(a,b):
     b=a**3
     return b
-b=0
+b = 0
 for _ in range(5):
     while True:
         a=input("Введите число: ")
